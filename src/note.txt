@@ -1,0 +1,2 @@
+để chạy bài tạo 1 file .env
+trong file env có VITE_API_URL="http://localhost:3000"
