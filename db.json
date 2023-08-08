@@ -1,0 +1,66 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": 2,
+      "name": "Điện thoại di động iPhone 14 Pro (128GB)",
+      "price": "23,790,000 ",
+      "original_price": 27990000,
+      "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/09/08/1111.png",
+      "desc": "sản phẩm đẹp"
+    },
+    {
+      "name": "Điện thoại di động iPhone 13 (128GB)",
+      "price": "16,390,000 ",
+      "original_price": 249900000,
+      "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2021/09/15/image-removebg-preview-13.png",
+      "desc": "Với những cải tiến không ngừng nghỉ cho những sản phẩm điện thoại thông minh của mình, Apple là hãng smartphone luôn nhận được sự tin tưởng từ người tiêu dùng Việt Nam. Dòng sản phẩm iPhone 13 được ra mắt gần đây với màu sắc mới và nâng cấp đáng kể về phần cứng của điện thoại đang nhận được rất nhiều sự quan tâm từ người hâm mộ. ",
+      "id": 3
+    },
+    {
+      "name": "Máy tính bảng iPad Gen 9 10.2",
+      "price": "6,990,000",
+      "original_price": 1080030000,
+      "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2021/09/15/image-removebg-preview-27.png",
+      "desc": "iPad Gen 9 10.2 inch (2021) Wifi là chiếc iPad được nhiều người săn đón nhờ thiết kế tinh tế, màn hình lớn, chip A13 Bionic mạnh mẽ và mức giá vừa túi tiền. Chiếc máy tính bảng này có thể đáp ứng mọi nhu cầu cơ bản từ làm việc, học tập đến giải trí.",
+      "id": 4
+    },
+    {
+      "name": "NĐiện thoại di động Samsung Galaxy Z Fold5 12GB",
+      "price": "40,990,000",
+      "original_price": 16890000,
+      "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/07/26/fold-5-chinh-thuc-2.png",
+      "desc": "﻿Điện thoại Samsung Galaxy Z Fold5 có thể dễ dàng xử lý đa tác vụ mà không lo giật lag với bộ nhớ RAM lên tới 12GB, kết hợp với chipset mạnh mẽ của Snapdragon –Snapdragon 8 Gen 2 for Galaxy. Ngoài ra, với màn hình Dynamic AMOLED 2X rộng lên tới 7.6 inch của Samsung Fold5,",
+      "id": 5
+    },
+    {
+      "name": "Điện thoại di động Samsung Galaxy Z Flip5 ",
+      "price": "25,990,000",
+      "original_price": 18900000,
+      "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/07/26/galaxy-z-flip5-2.png",
+      "desc": "Điện thoại Samsung Flip5 sở hữu màn hình Full HD+ với độ rộng là 6.7 inch, bộ camera 12MP ở mặt sau và 10MP ở mặt trước cho chất lượng ảnh vượt trội. Hệ điều hành Android 13 kết hợp cùng con chip Snapdragon 8 Gen 2 mang lại hiệu năng tuyệt đỉnh dành cho chiếc điện thoại Samsung gập mới này. ",
+      "id": 6
+    },
+    {
+      "name": "Điện thoại di động Infinix HOT 30i",
+      "price": "2,350,000 ",
+      "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/05/26/hot-30-i-blue-back.png",
+      "desc": "Điện thoại di động Infinix HOT 30i (4GB/128GB) mang đến cho người dùng khả năng hoàn thiện ấn tượng với một vẻ ngoài tinh tế. Đi kèm với đó là nhiều lựa chọn màu sắc và hiệu suất tốt trong tầm giá chắc chắn sẽ đáp ứng nhu cầu của đa số người dùng phổ thông. Trước tiên, hãy cùng Hoàng Hà Mobile tìm hiểu rõ hơn về chiếc smartphone tầm trung ấn tượng này.",
+      "id": 7
+    },
+    {
+      "name": "Điện thoại di động TECNO CAMON 20",
+      "price": "4,290,000  ",
+      "image": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2023/05/30/camon20-white-2-1.png",
+      "desc": "Sở hữu thiết kế nổi bật, TECNO CAMON 20 (8GB/256GB) nhanh chóng chiếm được cảm tình của nhiều người dùng ngay từ khi ra mắt. Cùng Hoàng Hà Mobile khám phá chiếc điện thoại độc lạ này dưới đây nhé!",
+      "id": 8
+    },
+    {
+      "name": "Iphone 15 a",
+      "price": "12.000.000",
+      "desc": "đẹp ",
+      "image": "https://s.yimg.com/fz/api/res/1.2/BUJbXpk35A8Jdow40E6hcA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpbGw7aD0yMjg7cHhvZmY9MDtweW9mZj0wO3E9ODA7c209MTt3PTQwMA--/https://media.zenfs.com/en/aol_the_independent_uk_548/241056713883904d8ce3850b95f40e36",
+      "id": 9
+    }
+  ]
+}
